@@ -17,6 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Flutter](https://img.shields.io/badge/-Flutter-075b9a?style=flat-square&logo=flutter)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsky1990&show_icons=true&theme=vue-dark&count_private=true)
 

@@ -1,1 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsky1990&show_icons=true&theme=vue-dark&count_private=true&langs_count=5)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsky1990&show_icons=true&theme=vue-dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsky1990)](https://github.com/anuraghazra/github-readme-stats)
+
